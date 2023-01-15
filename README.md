@@ -1,2 +1,2 @@
-# bibichan-git.github.io
-bibichan-git.github.io
+# bibi-nyan.github.io
+bibi-nyan.github.io
